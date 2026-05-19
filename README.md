@@ -3,7 +3,7 @@
 ## Abstract
 This paper presents a novel structural architectural concept that simultaneously solves the two greatest obstacles facing humanity in deep space transportation: "chemical fuel limitations" and "high-energy cosmic radiation leaks." While the current aerospace doctrine attempts to block radiation using passive armor, the proposed Anonymous-X Cosmos architecture aims to transform external radiation into an active shield and energy multiplier by drawing it into the reactor through electrostatic and magnetic manipulations. This study outlines a conceptual framework for quantum computer automation and metamaterial technologies, which are expected to mature within the next 10 years.
 
-![Anonim-X Cosmos]([https://raw.githubusercontent.com/AppsTRDesign/Anonim-X-Cosmos/refs/heads/main/Anonim-X%201.png])
+![Anonim-X Cosmos](https://raw.githubusercontent.com/AppsTRDesign/Anonim-X-Cosmos/refs/heads/main/Anonim-X%201.png)
 
 ---
 
